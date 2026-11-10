@@ -6,7 +6,7 @@ GNSS duty cycle based on positional uncertainty, reducing power use while
 maintaining positioning accuracy.
 
 ## Requirements
-- MATLAB  Simulink R20XX
+- MATLAB  Simulink R2024b (Minimum)
 - Sensor Fusion and Tracking Toolbox
 - Navigation Toolbox
 - Control System Toolbox
