@@ -22,7 +22,7 @@ GNSS degradation (`cfg.gnss.deg.en`) and controller mode (`adapt_en` for
 adaptive PI vs fixed bang-bang). Edit these, then rerun `sim_main.m`.
 
 ## Related
-PCB design files [link to PCB repo]
+PCB design files https://github.com/sudo-mjc/Linear-Charger-Power-PCB
 
 ## Author
 Mitchell Crawford – Bachelor of Engineering (Mechatronics), UQ
