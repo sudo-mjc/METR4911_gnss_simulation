@@ -1,0 +1,167 @@
+2 stationary segments found in first 360 s
+Closed-loop Incremental Control
+      coasts: 108
+    T_steady: [29.3455 0.9471]
+      k_conv: 18
+     crossed: 0.5091
+    over_thr: 0.1818
+        duty: 0.1585
+
+Closed-loop PI Control
+      coasts: 104
+    T_steady: [29.0684 1.2475]
+      k_conv: 4
+     crossed: 0.4717
+    over_thr: 0.1132
+        duty: 0.1531
+
+Fixed Duty-Cycle
+E = 417.4 J   P_avg = 115.9 mW   I_avg = 35.1 mA   Q = 35.13 mAh   duty = 33.2 %   wakes = 240
+Incremental Controller
+E = 207.6 J   P_avg = 57.7 mW   I_avg = 17.5 mA   Q = 17.48 mAh   duty = 15.9 %   wakes = 113
+Adaptive Controller
+E = 201.0 J   P_avg = 55.8 mW   I_avg = 16.9 mA   Q = 16.92 mAh   duty = 15.3 %   wakes = 109
+[11-Nov-2026 03:07:07] Checking for availability of parallel pool...
+[11-Nov-2026 03:07:07] Running simulations...
+[11-Nov-2026 03:07:14] Completed 1 of 90 simulation runs
+[11-Nov-2026 03:07:20] Completed 2 of 90 simulation runs
+[11-Nov-2026 03:07:26] Completed 3 of 90 simulation runs
+[11-Nov-2026 03:07:32] Completed 4 of 90 simulation runs
+[11-Nov-2026 03:07:38] Completed 5 of 90 simulation runs
+[11-Nov-2026 03:07:45] Completed 6 of 90 simulation runs
+[11-Nov-2026 03:07:51] Completed 7 of 90 simulation runs
+[11-Nov-2026 03:07:57] Completed 8 of 90 simulation runs
+[11-Nov-2026 03:08:03] Completed 9 of 90 simulation runs
+[11-Nov-2026 03:08:10] Completed 10 of 90 simulation runs
+[11-Nov-2026 03:08:16] Completed 11 of 90 simulation runs
+[11-Nov-2026 03:08:22] Completed 12 of 90 simulation runs
+[11-Nov-2026 03:08:29] Completed 13 of 90 simulation runs
+[11-Nov-2026 03:08:35] Completed 14 of 90 simulation runs
+[11-Nov-2026 03:08:41] Completed 15 of 90 simulation runs
+[11-Nov-2026 03:08:47] Completed 16 of 90 simulation runs
+[11-Nov-2026 03:08:53] Completed 17 of 90 simulation runs
+[11-Nov-2026 03:08:59] Completed 18 of 90 simulation runs
+[11-Nov-2026 03:09:06] Completed 19 of 90 simulation runs
+[11-Nov-2026 03:09:12] Completed 20 of 90 simulation runs
+[11-Nov-2026 03:09:18] Completed 21 of 90 simulation runs
+[11-Nov-2026 03:09:24] Completed 22 of 90 simulation runs
+[11-Nov-2026 03:09:30] Completed 23 of 90 simulation runs
+[11-Nov-2026 03:09:37] Completed 24 of 90 simulation runs
+[11-Nov-2026 03:09:43] Completed 25 of 90 simulation runs
+[11-Nov-2026 03:09:49] Completed 26 of 90 simulation runs
+[11-Nov-2026 03:09:55] Completed 27 of 90 simulation runs
+[11-Nov-2026 03:10:02] Completed 28 of 90 simulation runs
+[11-Nov-2026 03:10:08] Completed 29 of 90 simulation runs
+[11-Nov-2026 03:10:14] Completed 30 of 90 simulation runs
+[11-Nov-2026 03:10:20] Completed 31 of 90 simulation runs
+[11-Nov-2026 03:10:26] Completed 32 of 90 simulation runs
+[11-Nov-2026 03:10:33] Completed 33 of 90 simulation runs
+[11-Nov-2026 03:10:39] Completed 34 of 90 simulation runs
+[11-Nov-2026 03:10:45] Completed 35 of 90 simulation runs
+[11-Nov-2026 03:10:51] Completed 36 of 90 simulation runs
+[11-Nov-2026 03:10:58] Completed 37 of 90 simulation runs
+[11-Nov-2026 03:11:04] Completed 38 of 90 simulation runs
+[11-Nov-2026 03:11:10] Completed 39 of 90 simulation runs
+[11-Nov-2026 03:11:17] Completed 40 of 90 simulation runs
+[11-Nov-2026 03:11:23] Completed 41 of 90 simulation runs
+[11-Nov-2026 03:11:29] Completed 42 of 90 simulation runs
+[11-Nov-2026 03:11:36] Completed 43 of 90 simulation runs
+[11-Nov-2026 03:11:42] Completed 44 of 90 simulation runs
+[11-Nov-2026 03:11:48] Completed 45 of 90 simulation runs
+[11-Nov-2026 03:11:55] Completed 46 of 90 simulation runs
+[11-Nov-2026 03:12:01] Completed 47 of 90 simulation runs
+[11-Nov-2026 03:12:07] Completed 48 of 90 simulation runs
+[11-Nov-2026 03:12:13] Completed 49 of 90 simulation runs
+[11-Nov-2026 03:12:20] Completed 50 of 90 simulation runs
+[11-Nov-2026 03:12:26] Completed 51 of 90 simulation runs
+[11-Nov-2026 03:12:32] Completed 52 of 90 simulation runs
+[11-Nov-2026 03:12:39] Completed 53 of 90 simulation runs
+[11-Nov-2026 03:12:45] Completed 54 of 90 simulation runs
+[11-Nov-2026 03:12:51] Completed 55 of 90 simulation runs
+[11-Nov-2026 03:12:57] Completed 56 of 90 simulation runs
+[11-Nov-2026 03:13:04] Completed 57 of 90 simulation runs
+[11-Nov-2026 03:13:10] Completed 58 of 90 simulation runs
+[11-Nov-2026 03:13:16] Completed 59 of 90 simulation runs
+[11-Nov-2026 03:13:22] Completed 60 of 90 simulation runs
+[11-Nov-2026 03:13:29] Completed 61 of 90 simulation runs
+[11-Nov-2026 03:13:35] Completed 62 of 90 simulation runs
+[11-Nov-2026 03:13:41] Completed 63 of 90 simulation runs
+[11-Nov-2026 03:13:48] Completed 64 of 90 simulation runs
+[11-Nov-2026 03:13:54] Completed 65 of 90 simulation runs
+[11-Nov-2026 03:14:00] Completed 66 of 90 simulation runs
+[11-Nov-2026 03:14:07] Completed 67 of 90 simulation runs
+[11-Nov-2026 03:14:13] Completed 68 of 90 simulation runs
+[11-Nov-2026 03:14:19] Completed 69 of 90 simulation runs
+[11-Nov-2026 03:14:26] Completed 70 of 90 simulation runs
+[11-Nov-2026 03:14:32] Completed 71 of 90 simulation runs
+[11-Nov-2026 03:14:38] Completed 72 of 90 simulation runs
+[11-Nov-2026 03:14:44] Completed 73 of 90 simulation runs
+[11-Nov-2026 03:14:51] Completed 74 of 90 simulation runs
+[11-Nov-2026 03:14:57] Completed 75 of 90 simulation runs
+[11-Nov-2026 03:15:03] Completed 76 of 90 simulation runs
+[11-Nov-2026 03:15:09] Completed 77 of 90 simulation runs
+[11-Nov-2026 03:15:16] Completed 78 of 90 simulation runs
+[11-Nov-2026 03:15:22] Completed 79 of 90 simulation runs
+[11-Nov-2026 03:15:28] Completed 80 of 90 simulation runs
+[11-Nov-2026 03:15:34] Completed 81 of 90 simulation runs
+[11-Nov-2026 03:15:41] Completed 82 of 90 simulation runs
+[11-Nov-2026 03:15:47] Completed 83 of 90 simulation runs
+[11-Nov-2026 03:15:53] Completed 84 of 90 simulation runs
+[11-Nov-2026 03:16:00] Completed 85 of 90 simulation runs
+[11-Nov-2026 03:16:06] Completed 86 of 90 simulation runs
+[11-Nov-2026 03:16:12] Completed 87 of 90 simulation runs
+[11-Nov-2026 03:16:19] Completed 88 of 90 simulation runs
+[11-Nov-2026 03:16:25] Completed 89 of 90 simulation runs
+[11-Nov-2026 03:16:31] Completed 90 of 90 simulation runs
+
+----------------------------------------------------------------------------------------------------
+ Duty-cycle controller Monte Carlo: 30 runs per mode, mean +/- std [95% CI of mean]
+----------------------------------------------------------------------------------------------------
+metric       Fixed                       		Incremental                 		PI                          	 	PI - Inc (paired)
+rmse         0.09822 +/- 0.00472 [0.09646, 0.09999]	0.3397 +/- 0.0163 [0.3336, 0.3458]	0.3522 +/- 0.0179 [0.3455, 0.3589]	+0.0125 [+0.00749, +0.0175] *
+cep50        0.05816 +/- 0.0026 [0.05719, 0.05913]	0.1716 +/- 0.0106 [0.1676, 0.1755]	0.1823 +/- 0.0122 [0.1777, 0.1868]	+0.0107 [+0.00595, +0.0154] *
+cep95        0.1949 +/- 0.00611 [0.1926, 0.1971]	0.7246 +/- 0.0292 [0.7137, 0.7355]	0.7509 +/- 0.0368 [0.7372, 0.7646]	+0.0263 [+0.0138, +0.0387] *
+emax         0.6829 +/- 0.287 [0.576, 0.7899]		1.601 +/- 0.195 [1.528, 1.674]		1.621 +/- 0.197 [1.548, 1.695]		+0.0203 [-0.075, +0.116] 
+pct_in       99.99 +/- 0.0308 [99.98, 100]		98.77 +/- 0.406 [98.62, 98.92]		98.59 +/- 0.486 [98.41, 98.77]		-0.182 [-0.346, -0.0184] *
+pct_rmse_in  99.99 +/- 0.0308 [99.98, 100]		98.84 +/- 0.407 [98.68, 98.99]		98.67 +/- 0.484 [98.48, 98.85]		-0.17 [-0.335, -0.00446] *
+E            417.4 +/- 1.16e-13 [417.4, 417.4]		207.6 +/- 8.67e-14 [207.6, 207.6]	201 +/- 0.04 [201, 201]      		-6.62 [-6.64, -6.61] *
+P_avg        0.1159 +/- 7.06e-17 [0.1159, 0.1159]	0.05768 +/- 3.53e-17 [0.05768, 0.05768]	0.05584 +/- 1.11e-05 [0.05584, 0.05584]	-0.00184 [-0.00184, -0.00184] *
+Q            35.13 +/- 2.89e-14 [35.13, 35.13]		17.48 +/- 7.23e-15 [17.48, 17.48]	16.92 +/- 0.00337 [16.92, 16.92]	-0.557 [-0.559, -0.556] *
+duty         33.18 +/- 1.45e-14 [33.18, 33.18]		15.85 +/- 7.23e-15 [15.85, 15.85]	15.31 +/- 0.00403 [15.31, 15.31]	-0.547 [-0.549, -0.546] *
+wakes        240 +/- 0 [240, 240]         		113 +/- 0 [113, 113]         		109 +/- 0 [109, 109]         		-4 [-4, -4] *
+coasts       235 +/- 0 [235, 235]         		108 +/- 0 [108, 108]        		104 +/- 0 [104, 104]         		-4 [-4, -4] *
+T_ss         10 +/- 0 [10, 10]            		29.35 +/- 0.0802 [29.32, 29.38]		29.06 +/- 0.00442 [29.06, 29.06]	-0.285 [-0.315, -0.255] *
+T_ss_std     0 +/- 0 [0, 0]               		0.9458 +/- 0.0166 [0.9395, 0.952]	1.242 +/- 0.0244 [1.232, 1.251]		+0.296 [+0.285, +0.306] *
+k_conv       1 +/- 0 [1, 1]               		18 +/- 0 [18, 18]            		4 +/- 0 [4, 4]               		-14 [-14, -14] *
+crossed      0 +/- 0 [0, 0]               		0.5085 +/- 0.00332 [0.5072, 0.5097]	0.4811 +/- 0.027 [0.471, 0.4912]	-0.0274 [-0.0376, -0.0171] *
+over_thr     0 +/- 0 [0, 0]               		0.1752 +/- 0.0155 [0.1694, 0.1809]	0.1013 +/- 0.0207 [0.09352, 0.109]	-0.0739 [-0.0834, -0.0644] *
+----------------------------------------------------------------------------------------------------
+ (* = paired 95% CI excludes zero)
+
+ Incremental  vs Fixed: energy saving  50.3 +/- 0.0 %   GNSS battery life +101.0 +/- 0.0 %
+ PI           vs Fixed: energy saving  51.8 +/- 0.0 %   GNSS battery life +107.6 +/- 0.0 %
+
+ Fixed        goal (>= 85 % within 1.00 m): passed 30/30 runs, worst 99.8 %
+ Incremental  goal (>= 85 % within 1.00 m): passed 30/30 runs, worst 97.9 %
+ PI           goal (>= 85 % within 1.00 m): passed 30/30 runs, worst 97.8 %
+----------------------------------------------------------------------------------------------------
+
+Bang-Bang Controller
+
+--- Position accuracy (359001 epochs, thr = 1.00 m) ---
+Overall RMSE         : 0.324 m  (E 0.215, N 0.242)
+CEP50 / CEP95 / max  : 0.170 / 0.707 / 1.318 m
+Epochs |e| <= thr    : 99.3 %
+Epochs 1.0s-RMSE<=thr: 99.4 %
+Goal (>= 85 %)      : PASS
+
+Adaptive Controller
+
+--- Position accuracy (359001 epochs, thr = 1.00 m) ---
+Overall RMSE         : 0.341 m  (E 0.239, N 0.244)
+CEP50 / CEP95 / max  : 0.176 / 0.720 / 1.429 m
+Epochs |e| <= thr    : 99.1 %
+Epochs 1.0s-RMSE<=thr: 99.2 %
+Goal (>= 85 %)      : PASS
+
+>> 
